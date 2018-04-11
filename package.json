@@ -1,0 +1,27 @@
+{
+  "name": "bitratecalc",
+  "version": "1.0.0",
+  "description": "bitratenrechner",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	 "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaLaiLucas/bitratecalcworking.git"
+  },
+  "author": "Lucas Franke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaLaiLucas/bitratecalcworking/issues"
+  },
+  "homepage": "https://github.com/DaLaiLucas/bitratecalcworking#readme"
+}
